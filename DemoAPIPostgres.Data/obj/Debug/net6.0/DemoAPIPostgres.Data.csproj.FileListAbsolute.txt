@@ -1,0 +1,14 @@
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.deps.json
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.runtimeconfig.json
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.dll
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.pdb
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.csproj.AssemblyReference.cache
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.AssemblyInfoInputs.cache
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.AssemblyInfo.cs
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.csproj.CoreCompileInputs.cache
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.dll
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\refint\DemoAPIPostgres.Data.dll
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.pdb
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.genruntimeconfig.cache
+C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\ref\DemoAPIPostgres.Data.dll

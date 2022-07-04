@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPIPostgres", "DemoAPIPostgres.csproj", "{117754B6-92CF-401E-83C4-9D97086778FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPIPostgres.Data", "..\DemoAPIPostgres.Data\DemoAPIPostgres.Data.csproj", "{6120A44D-8AE3-4F35-A653-D51CFC52F844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117754B6-92CF-401E-83C4-9D97086778FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117754B6-92CF-401E-83C4-9D97086778FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117754B6-92CF-401E-83C4-9D97086778FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117754B6-92CF-401E-83C4-9D97086778FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6120A44D-8AE3-4F35-A653-D51CFC52F844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6120A44D-8AE3-4F35-A653-D51CFC52F844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6120A44D-8AE3-4F35-A653-D51CFC52F844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6120A44D-8AE3-4F35-A653-D51CFC52F844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD0E9AF-B9C9-451E-AD6A-C45EF4F30502}
+	EndGlobalSection
+EndGlobal
