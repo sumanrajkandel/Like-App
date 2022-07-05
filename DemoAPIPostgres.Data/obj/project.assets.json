@@ -745,11 +745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj",
+      "projectUniqueName": "E:\\ProjectWork\\Like-App\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj",
       "projectName": "DemoAPIPostgres.Data",
-      "projectPath": "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj",
+      "projectPath": "E:\\ProjectWork\\Like-App\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj",
       "packagesPath": "C:\\Users\\SUMANRAJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres.Data\\obj\\",
+      "outputPath": "E:\\ProjectWork\\Like-App\\DemoAPIPostgres.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SUMANRAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -923,11 +923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres\\DemoAPIPostgres.csproj",
+      "projectUniqueName": "E:\\ProjectWork\\Like-App\\DemoAPIPostgres\\DemoAPIPostgres.csproj",
       "projectName": "DemoAPIPostgres",
-      "projectPath": "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres\\DemoAPIPostgres.csproj",
+      "projectPath": "E:\\ProjectWork\\Like-App\\DemoAPIPostgres\\DemoAPIPostgres.csproj",
       "packagesPath": "C:\\Users\\SUMANRAJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres\\obj\\",
+      "outputPath": "E:\\ProjectWork\\Like-App\\DemoAPIPostgres\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SUMANRAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -944,8 +944,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj": {
-              "projectPath": "C:\\Users\\SUMANRAJ\\source\\repos\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj"
+            "E:\\ProjectWork\\Like-App\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj": {
+              "projectPath": "E:\\ProjectWork\\Like-App\\DemoAPIPostgres.Data\\DemoAPIPostgres.Data.csproj"
             }
           }
         }

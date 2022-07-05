@@ -24,6 +24,8 @@ namespace DemoAPIPostgres.Data
 
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Actor> Actors { get; set; }
+
+
         public DbSet<ManufacturarMaster> ManufacturarMasters { get; set; }
         public DbSet<Product> Products { get; set; }
     }

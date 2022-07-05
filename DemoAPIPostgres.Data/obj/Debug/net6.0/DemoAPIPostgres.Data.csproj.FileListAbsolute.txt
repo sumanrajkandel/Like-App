@@ -12,3 +12,17 @@ C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\refint\Demo
 C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.pdb
 C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.genruntimeconfig.cache
 C:\Users\SUMANRAJ\source\repos\DemoAPIPostgres.Data\obj\Debug\net6.0\ref\DemoAPIPostgres.Data.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.deps.json
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.runtimeconfig.json
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\bin\Debug\net6.0\DemoAPIPostgres.Data.pdb
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.csproj.AssemblyReference.cache
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.AssemblyInfoInputs.cache
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.AssemblyInfo.cs
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.csproj.CoreCompileInputs.cache
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\refint\DemoAPIPostgres.Data.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.pdb
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\DemoAPIPostgres.Data.genruntimeconfig.cache
+E:\ProjectWork\Like-App\DemoAPIPostgres.Data\obj\Debug\net6.0\ref\DemoAPIPostgres.Data.dll
