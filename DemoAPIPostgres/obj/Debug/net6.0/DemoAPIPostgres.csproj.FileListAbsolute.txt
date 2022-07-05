@@ -72,3 +72,7 @@ E:\ProjectWork\Like-App\DemoAPIPostgres\obj\Debug\net6.0\refint\DemoAPIPostgres.
 E:\ProjectWork\Like-App\DemoAPIPostgres\obj\Debug\net6.0\DemoAPIPostgres.pdb
 E:\ProjectWork\Like-App\DemoAPIPostgres\obj\Debug\net6.0\DemoAPIPostgres.genruntimeconfig.cache
 E:\ProjectWork\Like-App\DemoAPIPostgres\obj\Debug\net6.0\ref\DemoAPIPostgres.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres\bin\Debug\net6.0\System.Web.Http.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ProjectWork\Like-App\DemoAPIPostgres\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

@@ -3,9 +3,9 @@
     public class MasterBase
     {
         public bool IsActive { get; set; } = default!;
-        public DateTime CreatedOn { get; set; } = default!;
+        public DateTimeOffset CreatedOn { get; set; } = DateTimeOffset.UtcNow;
         public int CreatedBy { get; set; }
-        public DateTime UpdatedOn { get; set; }
-        public int UpdatedBy { get; set; }
+        public DateTimeOffset? UpdatedOn { get; set; }
+        public int? UpdatedBy { get; set; }
     }
 }
