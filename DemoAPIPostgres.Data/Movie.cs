@@ -13,7 +13,7 @@ namespace DemoAPIPostgres.Data
         [Required]
         public string Title { get; set; }
         public int Year { get; set; }
-        public string Summery { get; set; }
+        public string Summary { get; set; }
 
         public List<Actor> Actors { get; set; }
     }
@@ -22,6 +22,6 @@ namespace DemoAPIPostgres.Data
     {
         public int Id { get; set; }
         [Required]
-        public string FullName { get; set; }
+        public string Fullname { get; set; }
     }
 }

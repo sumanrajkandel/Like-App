@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace DemoAPIPostgres.Data.Migrations
 {
     [DbContext(typeof(ProductDataContext))]
-    [Migration("20220525200402_InitialDatabase")]
-    partial class InitialDatabase
+    [Migration("20220704195745_added homecontroller")]
+    partial class addedhomecontroller
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -32,7 +32,7 @@ namespace DemoAPIPostgres.Data.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseSerialColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("FullName")
+                    b.Property<string>("Fullname")
                         .IsRequired()
                         .HasColumnType("text");
 
@@ -54,7 +54,7 @@ namespace DemoAPIPostgres.Data.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseSerialColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Summery")
+                    b.Property<string>("Summary")
                         .IsRequired()
                         .HasColumnType("text");
 
