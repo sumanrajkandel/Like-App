@@ -3,6 +3,7 @@ using System;
 using DemoAPIPostgres.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,10 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace DemoAPIPostgres.Data.Migrations
 {
     [DbContext(typeof(ProductDataContext))]
-    partial class MovieDataContextModelSnapshot : ModelSnapshot
+    [Migration("20220706072137_added unique key on ProductDataContext")]
+    partial class addeduniquekeyonProductDataContext
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

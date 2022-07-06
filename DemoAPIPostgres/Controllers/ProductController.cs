@@ -70,8 +70,14 @@ namespace DemoAPIPostgres.Controllers
         public void Delete(int id)
         {
             if (id == 0) return;
-            context.Remove(id);
-            context.SaveChanges(true);
+
+            var rowDelete = context.Products.First(r => r.ProductId == id);
+
+            if (rowDelete != null)
+            {
+                context.Products.Remove(rowDelete);
+                context.SaveChanges(true);
+            }
         }
 
     }

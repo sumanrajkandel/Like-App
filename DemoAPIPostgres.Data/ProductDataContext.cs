@@ -18,7 +18,13 @@ namespace DemoAPIPostgres.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //added for auto-generated identity
             modelBuilder.UseSerialColumns();
+
+            //defining unique key constraints on column of entities. 
+            modelBuilder.Entity<Product>().HasIndex(e => e.ProductCode).IsUnique();
+            modelBuilder.Entity<ManufacturarMaster>().HasIndex(e => e.ManufacturarCode).IsUnique();
+
         }
 
 
